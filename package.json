@@ -8,6 +8,6 @@
   "license": "ISC",
   "private": true,
   "workspaces": [
-    
+    "client" 
   ]
 }
