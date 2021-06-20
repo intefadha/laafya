@@ -1,13 +1,13 @@
 {
   "name": "laafya",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "Doing our best to help.",
   "main": "index.js",
   "repository": "https://github.com/intefadha/laafya",
   "author": "Abderraouf Zine <rofazayn@gmail.com> (https://github.com/rofazayn)",
   "license": "ISC",
   "private": true,
-  "workspaces": [
-    "client", "api"
-  ]
+  "workspaces": {
+    "packages": ["client", "api"]
+  }
 }
