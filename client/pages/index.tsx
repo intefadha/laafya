@@ -7,7 +7,7 @@ export default function Home() {
 
   useEffect(() => {
     axios
-      .get('https://localhost:4000')
+      .get('http://localhost:4000')
       .then((res) => {
         setMessage(res.data.message);
       })
