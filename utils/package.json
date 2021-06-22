@@ -1,0 +1,9 @@
+{
+  "name": "@laafya/utils",
+  "version": "0.1.0",
+  "description": "Shared utilities",
+  "main": "index.js",
+  "author": "Abderraouf Zine <rofazayn@gmail.com> (https://github.com/rofazayn)",
+  "license": "MIT",
+  "private": true
+}

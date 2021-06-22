@@ -8,6 +8,6 @@
   "license": "ISC",
   "private": true,
   "workspaces": {
-    "packages": ["client", "api", "native"]
+    "packages": ["client", "api", "native", "utils"]
   }
 }
