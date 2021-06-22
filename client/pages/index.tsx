@@ -1,9 +1,9 @@
-import { utils } from '@laafya/utils';
+import utils from '@laafya/utils';
 
 export default function Home() {
   return (
     <div>
-      <h1>{utils}</h1>
+      <h1>{utils as string}</h1>
     </div>
   );
 }
