@@ -2,7 +2,8 @@
   "name": "@laafya/utils",
   "version": "0.1.0",
   "description": "Shared utilities",
-  "main": "src/index.js",
+  "main": "dist/index.js",
+  "typings": "dist/index.d.ts",
   "author": "Abderraouf Zine <rofazayn@gmail.com> (https://github.com/rofazayn)",
   "license": "MIT"
 }
