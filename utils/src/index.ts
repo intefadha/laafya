@@ -1,3 +1,7 @@
-const utils = 'Code sharing seems to be working.';
+export function addNumbers(a: number, b: number): number {
+  if (typeof a === 'number' && typeof b === 'number') {
+    return a + b;
+  }
 
-export default utils;
+  throw new Error('Please enter valid numbers!');
+}
