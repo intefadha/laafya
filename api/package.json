@@ -2,8 +2,14 @@
   "name": "@laafya/api",
   "version": "0.1.0",
   "private": true,
+  "main": "./dist/index.js",
+  "typings": "./dist/index.d.ts",
   "dependencies": {
     "cors": "^2.8.5",
     "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "@types/cors": "^2.8.12",
+    "@types/express": "^4.17.13"
   }
 }

@@ -1,3 +1,5 @@
+import { Request, Response } from 'express';
+
 const express = require('express');
 const cors = require('cors');
 
@@ -9,7 +11,7 @@ const port = 4000;
 app.use(cors());
 
 // Routes
-app.get('/', (req, res) => {
+app.get('/', (req: Request, res: Response) => {
   res.status(200).json({
     status: '200',
     message: 'Hey from api!',
