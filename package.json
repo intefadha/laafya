@@ -18,6 +18,12 @@
   "devDependencies": {
     "lerna": "^4.0.0"
   },
+  "scripts": {
+    "client:dev": "lerna run dev --scope=@laafya/client --stream",
+    "client:build": "lerna run build --scope=@laafya/client --stream",
+    "client:start": "lerna run start --scope=@laafya/client --stream",
+    "client:lint": "lerna run lint --scope=@laafya/client --stream"
+  },
   "publishConfig": {
     "access": "restricted"
   }
