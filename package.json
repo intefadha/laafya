@@ -8,6 +8,14 @@
   "license": "ISC",
   "private": true,
   "workspaces": {
-    "packages": ["client", "api", "native", "utils"]
+    "packages": [
+      "client",
+      "api",
+      "native",
+      "utils"
+    ]
+  },
+  "devDependencies": {
+    "lerna": "^4.0.0"
   }
 }
