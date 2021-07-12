@@ -2,6 +2,7 @@
   "name": "@laafya/native",
   "version": "0.0.0",
   "main": "__generated__/AppEntry.js",
+  "license": "MIT",
   "scripts": {
     "start": "expo start",
     "android": "expo start --android",
