@@ -4,6 +4,6 @@
   "description": "Shared utilities",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
-  "author": "Abderraouf Zine <rofazayn@gmail.com> (https://github.com/rofazayn)",
-  "license": "MIT"
+  "license": "MIT",
+  "author": "Abderraouf Zine <rofazayn@gmail.com> (https://github.com/rofazayn)"
 }
