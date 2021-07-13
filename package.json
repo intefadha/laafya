@@ -9,20 +9,20 @@
   "private": true,
   "workspaces": {
     "packages": [
-      "client",
+      "web",
       "api",
-      "native",
-      "utils"
+      "mobile",
+      "shared"
     ]
   },
   "devDependencies": {
     "lerna": "^4.0.0"
   },
   "scripts": {
-    "client:dev": "lerna run dev --scope=@laafya/client --stream",
-    "client:build": "lerna run build --scope=@laafya/client --stream",
-    "client:start": "lerna run start --scope=@laafya/client --stream",
-    "client:lint": "lerna run lint --scope=@laafya/client --stream"
+    "web:dev": "lerna run dev --scope=@laafya/web --stream",
+    "web:build": "lerna run build --scope=@laafya/web --stream",
+    "web:start": "lerna run start --scope=@laafya/web --stream",
+    "web:lint": "lerna run lint --scope=@laafya/web --stream"
   },
   "publishConfig": {
     "access": "restricted"
