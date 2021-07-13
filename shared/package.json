@@ -1,5 +1,5 @@
 {
-  "name": "@laafya/utils",
+  "name": "@laafya/shared",
   "version": "0.0.1-alpha.0",
   "description": "Shared utilities",
   "main": "dist/index.js",

@@ -1,9 +1,9 @@
 {
   "packages": [
     "api",
-    "client",
-    "native",
-    "utils"
+    "web",
+    "mobile",
+    "shared"
   ],
   "version": "independent",
   "npmClient": "yarn",

@@ -1,4 +1,4 @@
-import { addNumbers } from '@laafya/utils';
+import { addNumbers } from '@laafya/shared';
 
 export default function Home() {
   return (
