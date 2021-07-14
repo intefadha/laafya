@@ -27,7 +27,7 @@ Laafya is open to contributors, if you would like to help, we recommend creating
 
 Contributors and reviewers helping to review/merge pull requests:
 
-- [@rofazayn - Aberraouf Zine](https://github.com/rofazayn)
+- [@rofazayn - Abderraouf Zine](https://github.com/rofazayn)
 
 ## Code of Conduct
 
