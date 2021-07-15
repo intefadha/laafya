@@ -11,7 +11,7 @@ Laafya is built as monorepo, we are using Lerna and Yarn workspaces to manage ou
 | :-------------------- | :----------------------- |
 | [api](api) | GraphQL API server |
 | [mobile](mobile) | React Native App |
-| [client](kibbeh) | Next.js frontend |
+| [client](client) | Next.js frontend |
 | [shared](shared) | Shared utilities |
 
 ## Branching
@@ -22,6 +22,8 @@ Laafya is built as monorepo, we are using Lerna and Yarn workspaces to manage ou
 ## Contributions
 
 Laafya is open to contributors, if you would like to help, we recommend creating an issue to let us know what you are working on first, that way we don't overwrite each other.
+
+Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on this project.
 
 ## Laafya Reviewers
 
