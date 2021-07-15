@@ -11,7 +11,7 @@ Laafya is built as monorepo, we are using Lerna and Yarn workspaces to manage ou
 | :-------------------- | :----------------------- |
 | [api](api) | GraphQL API server |
 | [mobile](mobile) | React Native App |
-| [client](client) | Next.js frontend |
+| [web](web) | Next.js frontend |
 | [shared](shared) | Shared utilities |
 
 ## Branching
