@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Laafya is an open-source projects, our aim is to solve problems and provide services for the health sector in Algeria, and hopefully for the whole world in the upcoming future.
+Laafya is an open-source project, our aim is to solve problems and provide services for the health sector in Algeria, and hopefully for the whole world in the upcoming future.
 
 ## Project structure (**Codebase**)
 
