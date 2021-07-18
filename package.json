@@ -11,7 +11,6 @@
     "packages": [
       "web",
       "api",
-      "mobile",
       "shared"
     ]
   },
