@@ -2,7 +2,6 @@
   "packages": [
     "api",
     "web",
-    "mobile",
     "shared"
   ],
   "version": "independent",
