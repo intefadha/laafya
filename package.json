@@ -25,6 +25,8 @@
     "web:build": "lerna run build --scope=@laafya/web --stream",
     "web:start": "lerna run start --scope=@laafya/web --stream",
     "web:lint": "lerna run lint --scope=@laafya/web --stream",
+    "web:sb": "lerna run storybook --scope=@laafya/web --stream",
+    "web:sb-build": "lerna run build-storybook --scope=@laafya/web --stream",
     "prepare": "husky install"
   },
   "publishConfig": {
